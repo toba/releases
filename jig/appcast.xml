@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Jig</title>
+        <item>
+            <title>Jig 3.21.1</title>
+            <pubDate>Fri, 09 Oct 2026 18:38:56 +0000</pubDate>
+            <sparkle:version>3.21.1</sparkle:version>
+            <sparkle:shortVersionString>3.21.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/toba/releases/releases/download/jig-3.21.1/Jig-3.21.1.zip" type="application/octet-stream" sparkle:edSignature="Ik+Tw0CGKB6pWNsCbM6Z+y9OSHrgu1oCUuUlaSIZRUx/xrs/aZrNm3HywUdVM8626O00Yd0sWpLqN7sTV2S6Cg==" length="32267494" />
+        </item>
+    </channel>
+</rss>
