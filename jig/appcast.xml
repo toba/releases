@@ -650,5 +650,13 @@
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/toba/releases/releases/download/jig-3.101.2/Jig-3.101.2.zip" type="application/octet-stream" sparkle:edSignature="gRZwpwLFgdt4TJozRTe3Bim4uIuS2qiBm/FVPViRP64YduqE8TuqUaxk/zPPigYwjZYlbTcH7RwLlWgE2ELOCA==" length="30130013" />
         </item>
+        <item>
+            <title>Jig 3.102.0</title>
+            <pubDate>Wed, 04 Nov 2026 17:37:38 +0000</pubDate>
+            <sparkle:version>3.102.0</sparkle:version>
+            <sparkle:shortVersionString>3.102.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/toba/releases/releases/download/jig-3.102.0/Jig-3.102.0.zip" type="application/octet-stream" sparkle:edSignature="vxE+2ji4GKK7On6C7AQlRlYDF2WoRHCnAvMaUM2P3u3cRtDfvRX+C91csX8dnP43Q09C8rinRg9FO0/0QQlMCA==" length="30127608" />
+        </item>
     </channel>
 </rss>
