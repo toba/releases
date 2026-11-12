@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>ManyHats</title>
+        <item>
+            <title>ManyHats 0.1.4</title>
+            <pubDate>Thu, 12 Nov 2026 17:49:20 +0000</pubDate>
+            <sparkle:version>0.1.4</sparkle:version>
+            <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/toba/releases/releases/download/manyhats-0.1.4/ManyHats-0.1.4.zip" type="application/octet-stream" sparkle:edSignature="q0TzBz78xHbqw75NfHwvw80qD1769mmf/6b90y1Pe/nF88KU0m3Vm3+grPj7cR/8hbNDwJ+E8iqfjbbUppezCQ==" length="14654786" />
+        </item>
+    </channel>
+</rss>
