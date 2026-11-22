@@ -74,5 +74,13 @@
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/toba/releases/releases/download/manyhats-0.7.0/ManyHats-0.7.0.zip" type="application/octet-stream" sparkle:edSignature="yA/ud11aaoqiPO7UdyII/XH7Vz6THjEjCQgwjEeYtayXOQwnuc6yxivQPMt0u3ZIZIXu6uA4XSzTyxpz+VSaCg==" length="17075176" />
         </item>
+        <item>
+            <title>ManyHats 0.8.0</title>
+            <pubDate>Sun, 22 Nov 2026 18:27:00 +0000</pubDate>
+            <sparkle:version>0.8.0</sparkle:version>
+            <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/toba/releases/releases/download/manyhats-0.8.0/ManyHats-0.8.0.zip" type="application/octet-stream" sparkle:edSignature="dxs+uzCg6GU+Wxuc+M9Duwo5QXZ8ka/eIE1rdmuA9dH1ywci7pPGXnqmR4+izbVGi46/saFp1vSENFXtD68TCg==" length="17086334" />
+        </item>
     </channel>
 </rss>
