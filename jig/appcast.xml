@@ -1098,5 +1098,13 @@
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/toba/releases/releases/download/jig-5.4.1/Jig-5.4.1.zip" type="application/octet-stream" sparkle:edSignature="75+CCJXjkvaKl2uhKiMuXYi5kXkLYcxn2X8U3OQYIw7L8wePgfG3R4trPjOAKVN8wkNiG+pExzPiPBErhKNpDw==" length="35036972" />
         </item>
+        <item>
+            <title>Jig 5.4.2</title>
+            <pubDate>Wed, 25 Nov 2026 01:35:28 +0000</pubDate>
+            <sparkle:version>5.4.2</sparkle:version>
+            <sparkle:shortVersionString>5.4.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/toba/releases/releases/download/jig-5.4.2/Jig-5.4.2.zip" type="application/octet-stream" sparkle:edSignature="RSdEyWQPBJIu+SluruqCUWuy7dKogQje0xkQccZGeDrYWETkxKwzkx95KSrWx3bMQ35ESqb8ZYgT+CnC2FOBAg==" length="35038904" />
+        </item>
     </channel>
 </rss>
